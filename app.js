@@ -6,5 +6,5 @@ function over(obj) {
 
 function out(obj) {
     obj.innerHTML = "Lista de Alumnos."
-    obj.style.color = "#fff"
+    obj.style.color = "black"
 }
